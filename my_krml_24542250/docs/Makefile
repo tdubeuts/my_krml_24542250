@@ -3,7 +3,7 @@
 # You can set these variables from the command line.
 SPHINXOPTS    =
 SPHINXBUILD   = python -msphinx
-SPHINXPROJ    = mypkg
+SPHINXPROJ    = my_krml_24542250
 SOURCEDIR     = .
 BUILDDIR      = _build
 

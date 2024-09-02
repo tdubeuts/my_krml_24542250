@@ -9,7 +9,7 @@ if "%SPHINXBUILD%" == "" (
 )
 set SOURCEDIR=.
 set BUILDDIR=_build
-set SPHINXPROJ=mypkg
+set SPHINXPROJ=my_krml_24542250
 
 if "%1" == "" goto help
 

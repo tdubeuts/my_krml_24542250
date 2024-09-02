@@ -6,7 +6,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u"mypkg"
+project = u"my_krml_24542250"
 copyright = u"2024, Thuso Dube"
 author = u"Thuso Dube"
 

@@ -40,10 +40,10 @@ If you are proposing a feature:
 
 ## Get Started!
 
-Ready to contribute? Here's how to set up `mypkg` for local development.
+Ready to contribute? Here's how to set up `my_krml_24542250` for local development.
 
-1. Download a copy of `mypkg` locally.
-2. Install `mypkg` using `poetry`:
+1. Download a copy of `my_krml_24542250` locally.
+2. Install `my_krml_24542250` using `poetry`:
 
     ```console
     $ poetry install
@@ -69,5 +69,5 @@ Before you submit a pull request, check that it meets these guidelines:
 
 ## Code of Conduct
 
-Please note that the `mypkg` project is released with a
+Please note that the `my_krml_24542250` project is released with a
 Code of Conduct. By contributing to this project you agree to abide by its terms.
